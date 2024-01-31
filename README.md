@@ -4,7 +4,7 @@
 ## Возможности приложения
 
 *Добавление заметок*
-<img src="pictures/1.gif" height=50>
+<img src="pictures/1.gif" width="25%" height="auto">
 *Редактирование заметок*
 <img src="pictures/2.gif" height=400>
 *Форматирование Текста*
