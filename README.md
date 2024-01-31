@@ -6,12 +6,19 @@
 *Добавление заметок*
 <br/>
 <img src="pictures/1.gif" width="25%" height="auto">
+<br/>
 *Редактирование заметок*
 <br/>
-<img src="pictures/1.gif" width="25%" height="auto"> <br />
+<img src="pictures/2.gif" width="25%" height="auto">
+<br/>
 *Форматирование Текста*
-<img src="pictures/1.gif" width="25%" height="auto"> <br />
+<br/>
+<img src="pictures/3.gif" width="25%" height="auto">
+<br/>
 *Вставка картинок*
-<img src="pictures/1.gif" width="25%" height="auto"> <br />
+<br/>
+<img src="pictures/4.gif" width="25%" height="auto">
+<br/>
 *Удаление заметок*
-<img src="pictures/1.gif" width="25%" height="auto"> <br />
+<br/>
+<img src="pictures/5.gif" width="25%" height="auto">
